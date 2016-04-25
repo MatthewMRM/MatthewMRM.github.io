@@ -1,0 +1,34 @@
+body{
+	background-image: url(/img/dark_wood.png);
+
+}
+#BA{
+	padding: 30px;	
+	border: 1px;
+	height: 250px;
+	width: 100%;
+	background-color: rgba(122, 224, 229, .7);
+	text-align: left;
+	font-size: 48px;
+	color: white;
+	font-family: "Fredericka the Great";
+}
+
+#wrapper{
+	position: relative;
+	width: 100%;
+}
+
+
+
+.text{
+	position: absolute;
+	color: white;
+	top: 200px; 
+   left: 75px; 
+   width: 100%;
+   font-size: 48px;
+   opacity: 0;
+}	
+
+
